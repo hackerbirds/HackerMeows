@@ -1,6 +1,9 @@
 # HackerMeows
 A Firefox extension to help you make HackerNews comments far more interesting, insightful, and engaging.
 
+### Download
+
+If the Firefox developers are cool enough to allow our extension, it'll be available for download here https://addons.mozilla.org/en-US/firefox/addon/hackermeows/
 ### Before
 
 ![hackernewsmoment](https://github.com/hackerbirds/HackerMeows/assets/120066692/46d7989d-f193-41fa-b0b5-54733f23c6c6)
